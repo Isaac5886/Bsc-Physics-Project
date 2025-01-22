@@ -1,2 +1,2 @@
-# Bsc-Physics-Project
+# Common Wealth Bank
 The Exact Diagonalization of Four Electrons on Four sites
